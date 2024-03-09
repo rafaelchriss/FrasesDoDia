@@ -23,7 +23,7 @@ Como Usar
 
 6. Execute o aplicativo no emulador ou dispositivo físico.
 
-7. Toque no botão para gerar um novo número aleatório.
+7. Toque no botão para gerar frases aleatória.
 
    - Agora você pode explorar o aplicativo e testar suas funcionalidades! 🚀✨
 
