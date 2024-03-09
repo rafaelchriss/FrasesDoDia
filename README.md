@@ -7,19 +7,29 @@ Recursos Principais
 📜 Geração de Frases Aleatórias: Toque no botão e obtenha uma frase inspiradora para o seu dia. <br>
 Como Usar
 
-Abra o Android Studio.<br>
-No Android Studio, vá para Get from VCS.<br>
-Cole o link do repositório no campo URL.<br>
-Escolha a opção "GitHub" em Version Control.<br>
-Cole a URL do projeto: https://github.com/rafaelchriss/FrasesDoDia<br>
-Após o clone, abra o projeto no Android Studio.<br>
-Execute o aplicativo no emulador ou dispositivo físico.<br>
-Toque no botão para gerar uma nova frase aleatória.<br>
-Agora você pode explorar o aplicativo e se inspirar com suas funcionalidades! 🌟
+## Como Usar
+
+1. Abra o Android Studio.
+
+2. No Android Studio, vá para **Get from VCS**.
+
+3. Cole o link do repositório no campo URL.
+
+   - Escolha a opção "GitHub" em Version Control.
+
+4. Cole a URL do projeto: `https://github.com/rafaelchriss/FrasesDoDia`.
+
+5. Após o clone, abra o projeto no Android Studio.
+
+6. Execute o aplicativo no emulador ou dispositivo físico.
+
+7. Toque no botão para gerar um novo número aleatório.
+
+   - Agora você pode explorar o aplicativo e testar suas funcionalidades! 🚀✨
 
 Tecnologias Utilizadas
 
-📱 Mobile: Desenvolvido com Kotlin e Java.
+📱 Mobile: Desenvolvido em Java.
 Este aplicativo foi projetado para fornecer frases motivadoras que podem inspirar e elevar seu ânimo a cada dia. Aproveite a experiência! 🚀✨
 
 
