@@ -4,7 +4,7 @@ Bem-vindo ao Seu App, um aplicativo simples que gera frases aleatórias motivado
 
 Recursos Principais
 
-📜 Geração de Frases Aleatórias: Toque no botão e obtenha uma frase inspiradora para o seu dia.
+📜 Geração de Frases Aleatórias: Toque no botão e obtenha uma frase inspiradora para o seu dia. <br>
 Como Usar
 
 Abra o Android Studio.<br>
