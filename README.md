@@ -7,14 +7,14 @@ Recursos Principais
 📜 Geração de Frases Aleatórias: Toque no botão e obtenha uma frase inspiradora para o seu dia.
 Como Usar
 
-Abra o Android Studio.
-No Android Studio, vá para Get from VCS.
-Cole o link do repositório no campo URL.
-Escolha a opção "GitHub" em Version Control.
-Cole a URL do projeto: https://github.com/rafaelchriss/FrasesDoDia
-Após o clone, abra o projeto no Android Studio.
-Execute o aplicativo no emulador ou dispositivo físico.
-Toque no botão para gerar uma nova frase aleatória.
+Abra o Android Studio.<br>
+No Android Studio, vá para Get from VCS.<br>
+Cole o link do repositório no campo URL.<br>
+Escolha a opção "GitHub" em Version Control.<br>
+Cole a URL do projeto: https://github.com/rafaelchriss/FrasesDoDia<br>
+Após o clone, abra o projeto no Android Studio.<br>
+Execute o aplicativo no emulador ou dispositivo físico.<br>
+Toque no botão para gerar uma nova frase aleatória.<br>
 Agora você pode explorar o aplicativo e se inspirar com suas funcionalidades! 🌟
 
 Tecnologias Utilizadas
