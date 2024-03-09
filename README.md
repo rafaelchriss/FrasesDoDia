@@ -3,8 +3,8 @@ Seu App - Gerador de Frases Motivadoras 🚀
 Bem-vindo ao Seu App, um aplicativo simples que gera frases aleatórias motivadoras para inspirar o seu dia. Este projeto faz parte do meu aprendizado no curso de mobile do professor Jamilton Damasceno.
 
 Recursos Principais
-📜 Geração de Frases Aleatórias: Toque no botão e obtenha uma frase inspiradora para o seu dia.
 
+📜 Geração de Frases Aleatórias: Toque no botão e obtenha uma frase inspiradora para o seu dia.
 Como Usar
 
 Abra o Android Studio.
@@ -18,8 +18,8 @@ Toque no botão para gerar uma nova frase aleatória.
 Agora você pode explorar o aplicativo e se inspirar com suas funcionalidades! 🌟
 
 Tecnologias Utilizadas
-📱 Mobile: Desenvolvido com Kotlin e Java.
 
+📱 Mobile: Desenvolvido com Kotlin e Java.
 Este aplicativo foi projetado para fornecer frases motivadoras que podem inspirar e elevar seu ânimo a cada dia. Aproveite a experiência! 🚀✨
 
 
