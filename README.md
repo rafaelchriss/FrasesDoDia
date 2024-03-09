@@ -29,7 +29,7 @@ Como Usar
 
 Tecnologias Utilizadas
 
-📱 Mobile: Desenvolvido em Java.
+📱 Mobile: Desenvolvido em Java.<br>
 Este aplicativo foi projetado para fornecer frases motivadoras que podem inspirar e elevar seu ânimo a cada dia. Aproveite a experiência! 🚀✨
 
 
