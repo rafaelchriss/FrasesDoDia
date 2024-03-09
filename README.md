@@ -35,3 +35,9 @@ Este aplicativo foi projetado para fornecer frases motivadoras que podem inspira
 
 
 
+![image](https://github.com/rafaelchriss/FrasesDoDia/assets/86614504/7f5df6b4-d211-4a3f-8252-4ae0a500bc0a)
+
+
+
+
+
