@@ -35,6 +35,7 @@ Este aplicativo foi projetado para fornecer frases motivadoras que podem inspira
 <div align="center">
     <img src="https://github.com/user-attachments/assets/84727de8-a270-496a-8b67-9d191c8fcf85" alt="Imagem do app motivacional" style="width:50%;">
 </div>
+![{98D424FF-3DD2-4D4A-ABDC-B149784C00C8}](https://github.com/user-attachments/assets/30a2201e-be0e-4c33-834f-c156b1230ff6)
 
 
 
