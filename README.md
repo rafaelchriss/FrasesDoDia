@@ -37,7 +37,8 @@ Este aplicativo foi projetado para fornecer frases motivadoras que podem inspira
 
 <p align="center">
   <a href="https://github.com/rafaelchriss/PrimeiroProjeto">
-    <img src="https://github.com/rafaelchriss/FrasesDoDia/assets/86614504/7f5df6b4-d211-4a3f-8252-4ae0a500bc0a" alt="Logo do Seu App" width="500">
+    ![{A39BEAE6-7A5D-4F4B-B086-057D0F8C6AB8}](https://github.com/user-attachments/assets/33168bec-1446-475c-947d-711841a6e655)
+
   </a>
 </p>
 
