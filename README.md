@@ -32,10 +32,10 @@ Tecnologias Utilizadas
 📱 Mobile: Desenvolvido em Java.<br>
 <br>
 Este aplicativo foi projetado para fornecer frases motivadoras que podem inspirar e elevar seu ânimo a cada dia. Aproveite a experiência! 🚀✨
-
-<div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/84727de8-a270-496a-8b67-9d191c8fcf85">
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/user-attachments/assets/84727de8-a270-496a-8b67-9d191c8fcf85" alt="Imagem do app motivacional" style="max-width: 100%; height: auto;">
 </div>
+
 
 
 
