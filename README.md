@@ -37,9 +37,11 @@ Este aplicativo foi projetado para fornecer frases motivadoras que podem inspira
 
 <p align="center">
   <a href="https://github.com/rafaelchriss/PrimeiroProjeto">
-    ![{A39BEAE6-7A5D-4F4B-B086-057D0F8C6AB8}](https://github.com/user-attachments/assets/d60cf532-4048-4192-a31e-a5218d029167)
+   ![{E0BC82AF-10EF-4882-AB8F-365187D1D272}](https://github.com/user-attachments/assets/4fca93fc-fb62-4b9e-8c65-1e0f56863f13)
+
   </a>
 </p>
+![{E0BC82AF-10EF-4882-AB8F-365187D1D272}](https://github.com/user-attachments/assets/86c3c906-79c6-4763-ada6-25900f231d76)
 
 
 
