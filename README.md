@@ -6,8 +6,6 @@ Bem-vindo ao Seu App, um aplicativo divertido e simples para jogar Pedra, Papel 
 
 ✊ ✋ ✌️ Escolha sua jogada: Pedra, Papel ou Tesoura e desafie a inteligência do aplicativo. <br>
 🧠 Resultado instantâneo: Descubra quem venceu a rodada, o jogador ou o app. <br>
-📊 Sistema de pontuação: Acompanhe quem está ganhando ao longo das rodadas.
-
 ---
 
 ## Como Usar
