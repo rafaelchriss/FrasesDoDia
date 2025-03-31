@@ -1,11 +1,14 @@
-Seu App - Gerador de Frases Motivadoras 🚀
+# Seu App - Jogo Pedra, Papel e Tesoura 🚀
 
-Bem-vindo ao Seu App, um aplicativo simples que gera frases aleatórias motivadoras para inspirar o seu dia. <br>Este projeto faz parte do meu aprendizado no curso de mobile do professor Jamilton Damasceno.
+Bem-vindo ao Seu App, um aplicativo divertido e simples para jogar Pedra, Papel e Tesoura! Este projeto foi criado como parte do meu aprendizado no curso de mobile do professor Jamilton Damasceno.
 
-Recursos Principais
+## Recursos Principais
 
-📜 Geração de Frases Aleatórias: Toque no botão e obtenha uma frase inspiradora para o seu dia. <br>
+✊ ✋ ✌️ Escolha sua jogada: Pedra, Papel ou Tesoura e desafie a inteligência do aplicativo. <br>
+🧠 Resultado instantâneo: Descubra quem venceu a rodada, o jogador ou o app. <br>
+📊 Sistema de pontuação: Acompanhe quem está ganhando ao longo das rodadas.
 
+---
 
 ## Como Usar
 
@@ -15,17 +18,25 @@ Recursos Principais
 
 3. Cole o link do repositório no campo URL.
 
-   - Escolha a opção "GitHub" em Version Control.
+   - Certifique-se de escolher "GitHub" em Version Control.
 
-4. Cole a URL do projeto: `https://github.com/rafaelchriss/FrasesDoDia`.
+4. Cole a URL do projeto: `https://github.com/rafaelchriss/AulaPedraPapelTesoura`.
 
 5. Após o clone, abra o projeto no Android Studio.
 
-6. Execute o aplicativo no emulador ou dispositivo físico.
+6. Execute o aplicativo no emulador ou em um dispositivo físico.
 
-7. Toque no botão para gerar frases aleatória.
+7. Escolha sua jogada (Pedra, Papel ou Tesoura) e jogue contra o aplicativo.
 
-   - Agora você pode explorar o aplicativo e testar suas funcionalidades! 🚀✨
+   - Divirta-se testando as funcionalidades do jogo! 🚀✨
+
+---
+
+## Tecnologias Utilizadas
+
+📱 Mobile: Desenvolvido em Java. <br>
+
+Este aplicativo foi projetado para oferecer uma experiência simples e divertida, perfeita para passar o tempo ou desafiar seus amigos! Boa diversão! 🚀✨
 
 Tecnologias Utilizadas
 
